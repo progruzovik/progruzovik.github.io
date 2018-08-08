@@ -1,0 +1,12 @@
+body {
+    cursor: default;
+    margin: 0;
+    overflow: hidden;
+    padding: 0;
+    user-select: none;
+}
+
+body, html {
+    width: 100%;
+    height: 100%;
+}
