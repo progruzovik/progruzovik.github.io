@@ -19,6 +19,7 @@ function onAssetsLoaded() {
     }
 
     var explosion = new PIXI.extras.AnimatedSprite(explosionTextures);
+    explosion.animationSpeed = 0.5;
     explosion.play();
     app.stage.addChild(explosion);
 
