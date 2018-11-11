@@ -13,7 +13,7 @@ function onAssetsLoaded() {
     var explosionTextures = [],
         i;
 
-    for (i = 0; i < 26; i++) {
+    for (i = 0; i < 2; i++) {
          var texture = PIXI.Texture.fromFrame('gg' + (i + 1) + '.png');
          explosionTextures.push(texture);
     }
