@@ -1,0 +1,44 @@
+{
+	"frames": {
+		"gg1.png": {
+			"frame": {
+				"x": 0,
+				"y": 0,
+				"w": 550,
+				"h": 400
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 550,
+				"h": 400
+			},
+			"sourceSize": {
+				"w": 550,
+				"h": 400
+			}
+		},
+		"gg2.png": {
+			"frame": {
+				"x": 550,
+				"y": 400,
+				"w": 550,
+				"h": 400
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 550,
+				"h": 400
+			},
+			"sourceSize": {
+				"w": 550,
+				"h": 400
+			}
+		}
+	}
+}
